@@ -19,11 +19,11 @@ This collection began when I was young with an odd assortment of turtle figurine
 - what type of turtle it is
 - when it joined the collection
 - who purchased the turtle
-- where the it came from
+- where it came from
 - what materials and techniques were used to create the turtle
 - the size of the figure
 
-{% include feature/image.html objectid="turtle020" width="75" %}
+{% include feature/image.html objectid="turtle020" width="50" %}
 ---
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
