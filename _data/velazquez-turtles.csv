@@ -1,0 +1,57 @@
+objectid,parentid,filename,title,date,description,subject,location,latitude,longitude,source,type,format,rights,rightsstatement
+turtle001,,,Glass Sea Turtle,2020,A decorative glass turtle figurine with a black shell. It measures approximately 5.5 cm from head to tail. The turtle rests on top a stylized seaweed base.,sea turtle;glass;black;clear;small,"Tlaquepaque, Mexico",20.60264508,-103.3384299,Angie Velazquez,Image;StillImage,multiple,CC BY-NC,https://creativecommons.org/licenses/by-nc/4.0/
+turtle002,turtle001,001-ST-glass-black-side.jpg,Glass Sea Turtle-side,,,,,,,,,image/jpeg,,
+turtle003,turtle001,001-ST-glass-black-top.jpg,Glass Sea Turtle-top,,,,,,,,,image/jpeg,,
+turtle004,,,Ceramic Freshwater Turtle,2010,A tan ceramic turtle figurine. It measures approximately 8 cm from head to tail. The turtle is adorned with glaze and functions as a container.,freshwater turtle;ceramic;ceramic glaze;tan;small,"Tonala, Mexico",20.62394404,-103.2388198,"Family, Parent, Mom",Image;StillImage,multiple,CC BY-NC,https://creativecommons.org/licenses/by-nc/4.0/
+turtle005,turtle004,002-FW-ceramic-tan-side.jpg,Ceramic Freshwater Turtle-side,,,,,,,,,image/jpeg,,
+turtle006,turtle004,002-FW-ceramic-tan-top.jpg,Ceramic Freshwater Turtle-top,,,,,,,,,image/jpeg,,
+turtle007,,,Ceramic Freshwater Turtle,2010,A decorative ceramic turtle figurine with a glazed green shell. It measures approximately 7 cm from head to tail. The figure features dangling appendages and two smaller turtles stacked on top of the larger base turtle. The location is written on the shell.,freshwater turtle;ceramic;ceramic glaze;wire;green;tan;small,"Santa Monica, USA",34.01184561,-118.4899252,"Family, Grandfather",Image;StillImage,multiple,CC BY-NC,https://creativecommons.org/licenses/by-nc/4.0/
+turtle008,turtle007,003-FW-ceramic-green-side.jpg,Ceramic Freshwater Turtle-side,,,,,,,,,image/jpeg,,
+turtle009,turtle007,003-FW-ceramic-green-top.jpg,Ceramic Freshwater Turtle-top,,,,,,,,,image/jpeg,,
+turtle010,,,Alabaster Tortoise,2015-05,"A decorative tan alabaster turtle figurine. It measures approximately 3.5 cm from head to tail. A sticker with ""Peru"" written on it is found on the underside.",tortoise;rock;alabaster;tan;extra small,"Cusco, Peru",-13.53235248,-71.96620075,"Family, Aunt",Image;StillImage,multiple,CC BY-NC,https://creativecommons.org/licenses/by-nc/4.0/
+turtle011,turtle010,004-T-alabaster-tan-side.jpg,Alabaster Tortoise-side,,,,,,,,,image/jpeg,,
+turtle012,turtle010,004-T-alabaster-tan-top.jpg,Alabaster Tortoise-top,,,,,,,,,image/jpeg,,
+turtle013,,,Wood Tortoise,2021,A decorative ironwood turtle figurine. It measures approximately 7.5 cm from head to tail. The wood is dark brown and the remnants of a price sticker can be found on the underside.,tortoise;wood;ironwood;brown;small,"Cozumel, Mexico",20.50611275,-86.94341761,"Family, Parent",Image;StillImage,multiple,CC BY-NC,https://creativecommons.org/licenses/by-nc/4.0/
+turtle014,turtle013,005-T-wood-brown-side.jpg,Wood Tortoise-side,,,,,,,,,image/jpeg,,
+turtle015,turtle013,005-T-wood-brown-top.jpg,Wood Tortoise-top,,,,,,,,,image/jpeg,,
+turtle016,,,Ceramic Sea Turtle,2015-05,"Two intertwined decorative turtle figurines. The duo measures approximately 10.5 cm from side to side. The turtles feature a ""Made in Peru"" sticker on the underside.",sea turtle;ceramic;ceramic glaze;tan;green;medium,"Cusco, Peru",-13.53235248,-71.96620075,"Family, Grandfather",Image;StillImage,multiple,CC BY-NC,https://creativecommons.org/licenses/by-nc/4.0/
+turtle017,turtle016,006-ST-ceramic-tan_green-side.jpg,Ceramic Sea Turtle-side,,,,,,,,,image/jpeg,,
+turtle018,turtle016,006-ST-ceramic-tan_green-top.jpg,Ceramic Sea Turtle-top,,,,,,,,,image/jpeg,,
+turtle019,,,Clay Freshwater Turtle,2007,A decorative clay turtle figurine. It measures approximately 6 cm from head to tail. The turtle has flower designs and patterns etched onto the clay.,freshwater turtle;clay;black;small,"Oaxaca, Mexico",17.0712021,-96.72463561,"Family, Parent",Image;StillImage,multiple,CC BY-NC,https://creativecommons.org/licenses/by-nc/4.0/
+turtle020,turtle019,007-FW-clay-black-side.jpg,Clay Freshwater Turtle-side,,,,,,,,,image/jpeg,,
+turtle021,turtle019,007-FW-clay-black-top.jpg,Clay Freshwater Turtle-top,,,,,,,,,image/jpeg,,
+turtle022,,,Obsidian Freshwater Turtle,2010,A decorative obsidian turtle figurine. It measures approximately 7.5 cm from head to tail. The turtle is black with a metallic sheen patch on one side.,freshwater turtle;rock;obsidian;black;small,"Tequila, Mexico",20.88197217,-103.832643,"Family, Parent, Dad",Image;StillImage,multiple,CC BY-NC,https://creativecommons.org/licenses/by-nc/4.0/
+turtle023,turtle022,008-FW-obsidian-black-side-1.jpg,Obsidian Freshwater Turtle-side 1,,,,,,,,,image/jpeg,,
+turtle024,turtle022,008-FW-obsidian-black-side-2.jpg,Obsidian Freshwater Turtle-side 2,,,,,,,,,image/jpeg,,
+turtle025,turtle022,008-FW-obsidian-black-top.jpg,Obsidian Freshwater Turtle-top,,,,,,,,,image/jpeg,,
+turtle026,,,Wood Sea Turtle,2022-04,A decorative ironwood turtle figurine. It measures approximately 11.5 cm from head to tail. The wood is dark brown.,sea turtle;wood;ironwood;brown;medium,"San Andres, Colombia",12.55788501,-81.71884392,"Family, Parent, Mom",Image;StillImage,multiple,CC BY-NC,https://creativecommons.org/licenses/by-nc/4.0/
+turtle027,turtle026,009-ST-wood-brown-side.jpg,Wood Sea Turtle-side,,,,,,,,,image/jpeg,,
+turtle028,turtle026,009-ST-wood-brown-top.jpg,Wood Sea Turtle-top,,,,,,,,,image/jpeg,,
+turtle029,,,Seashell Sea Turtle,2000,"A decorative seashell turtle figurine. It measures approximately 8 cm from head to tail. The turtle has the location written on the shell, and has also been personalized.",sea turtle;seashell;adhesive;markers;mesh fabric;tan;small,"Veracruz, Mexico",19.17551061,-96.13390184,"Family, Grandmother",Image;StillImage,multiple,CC BY-NC,https://creativecommons.org/licenses/by-nc/4.0/
+turtle030,turtle029,010-ST-seashell-tan-side-1.jpg,Seashell Sea Turtle-side 1,,,,,,,,,image/jpeg,,
+turtle031,turtle029,010-ST-seashell-tan-side-2.jpg,Seashell Sea Turtle-side 2,,,,,,,,,image/jpeg,,
+turtle032,turtle029,010-ST-seashell-tan-top.jpg,Seashell Sea Turtle-top,,,,,,,,,image/jpeg,,
+turtle033,,,Resin Sea Turtle,2022-10,"A decorative resin turtle figurine. It measures approximately 4 cm from head to tail. The shell is clear and swirls of blue, white, and gold can be seen on the inside. The location has been added on with vinyl lettering stuck on top.",sea turtle;acrylic resin;vinyl;adhesive;blue;clear;extra small,"Cape Cod, USA",41.8333,-70,Friends,Image;StillImage,multiple,CC BY-NC,https://creativecommons.org/licenses/by-nc/4.0/
+turtle034,turtle033,011-ST-resin-blue-side.jpg,Resin Sea Turtle-side,,,,,,,,,image/jpeg,,
+turtle035,turtle033,011-ST-resin-blue-top.jpg,Resin Sea Turtle-top,,,,,,,,,image/jpeg,,
+turtle036,,,Clay Sea Turtle,2010,"A clay turtle figurine. It can be worn as jewelry if a string is placed through the hole in its head. It measures approximately 4 cm from head to tail. There is a dolphin painted on the shell and the word ""Mexico"" is written on the underside. The front flippers have both been broken and reattached.",sea turtle;clay;glaze;paint;markers;adhesive;tan;green;extra small,Mexico,23.99808726,-102.8851469,Unknown,Image;StillImage,multiple,CC BY-NC,https://creativecommons.org/licenses/by-nc/4.0/
+turtle037,turtle036,012-ST-clay-tan_green-side.jpg,Clay Sea Turtle-side,,,,,,,,,image/jpeg,,
+turtle038,turtle036,012-ST-clay-tan_green-top.jpg,Clay Sea Turtle-top,,,,,,,,,image/jpeg,,
+turtle039,,,Beaded Sea Turtle,2003,A decorative beaded turtle figurine. It measures approximately 8 cm from head to tail. The materials and technique are native to the region.,sea turtle;wood;seed beads;wax;multicolor;small,"Puerto Vallarta, Mexico",20.65610321,-105.2085861,"Family, Parent",Image;StillImage,multiple,CC BY-NC,https://creativecommons.org/licenses/by-nc/4.0/
+turtle040,turtle039,013-ST-beads-multicolor-side.jpg,Beaded Sea Turtle-side,,,,,,,,,image/jpeg,,
+turtle041,turtle039,013-ST-beads-multicolor-top.jpg,Beaded Sea Turtle-top,,,,,,,,,image/jpeg,,
+turtle042,,,Resin Sea Turtle,2025-09,A decorative resin turtle figurine. It measures approximately 6 cm from head to tail. The figure resembles the Trencadís technique which can be found all over the region.,sea turtle;acrylic resin;paint;multicolor;small,"Barcelona, Spain",41.38774485,2.15838229,"Family, Cousin",Image;StillImage,multiple,CC BY-NC,https://creativecommons.org/licenses/by-nc/4.0/
+turtle043,turtle042,014-ST-resin-multicolor-side.jpg,Resin Sea Turtle-side,,,,,,,,,image/jpeg,,
+turtle044,turtle042,014-ST-resin-multicolor-top.jpg,Resin Sea Turtle-top,,,,,,,,,image/jpeg,,
+turtle045,,,Seashell Sea Turtle,2010,"A decorative seashell turtle figurine. The rock it sits on measures approximately 5 cm from top to bottom. The shell of the turtle is made up of a seashell while the limbs and other decorative elements, including the location label, are made from polymer clay.",sea turtle;seashell;rock;polymer clay;green;brown;small,"Mazatlan, Mexico",23.25012007,-106.4082293,"Family, Parent",Image;StillImage,multiple,CC BY-NC,https://creativecommons.org/licenses/by-nc/4.0/
+turtle046,turtle045,015-ST-seashell-green_brown-side.jpg,Seashell Sea Turtle-side,,,,,,,,,image/jpeg,,
+turtle047,turtle045,015-ST-seashell-green_brown-top.jpg,Seashell Sea Turtle-top,,,,,,,,,image/jpeg,,
+turtle048,,,Wood Tortoise,2024,"A decorative wood turtle figurine. It measures approximately 9 cm from head to tail.  A ""Made in Germany"" sticker can be found on the underside.",tortoise;wood;mahogany;tan;medium,"Munich, Germany",48.13570453,11.58360369,"Family, Parent, Dad",Image;StillImage,multiple,CC BY-NC,https://creativecommons.org/licenses/by-nc/4.0/
+turtle049,turtle048,016-T-wood-tan-side.jpg,Wood Tortoise-side,,,,,,,,,image/jpeg,,
+turtle050,turtle048,016-T-wood-tan-top.jpg,Wood Tortoise-top,,,,,,,,,image/jpeg,,
+turtle051,,,Clay Sea Turtle,2007,A decorative clay turtle figurine. The nutshell it sits on measures approximately 1.5 cm from top to bottom. The turtle is made of polymer clay with details painted on.,sea turtle;polymer clay;paint;nutshell;green;extra small,"Boston, USA",42.35570392,-71.05688798,"Family, Parent",Image;StillImage,multiple,CC BY-NC,https://creativecommons.org/licenses/by-nc/4.0/
+turtle052,turtle051,017-ST-clay-green-side.jpg,Clay Sea Turtle-side,,,,,,,,,image/jpeg,,
+turtle053,turtle051,017-ST-clay-green-top.jpg,Clay Sea Turtle-top,,,,,,,,,image/jpeg,,
+turtle054,,,Wood Sea Turtle,2007,A decorative copal wood turtle figurine. It measures approximately 7.5 cm from head to tail. The figure uses the Alebrije technique which can be found all over the region.,sea turtle;wood;copal;paint;multicolor;small,"Oaxaca, Mexico",17.0712021,-96.72463561,"Family, Parent",Image;StillImage,multiple,CC BY-NC,https://creativecommons.org/licenses/by-nc/4.0/
+turtle055,turtle054,018-ST-wood-multicolor-side.jpg,Wood Sea Turtle-side,,,,,,,,,image/jpeg,,
+turtle056,turtle054,018-ST-wood-multicolor-top.jpg,Wood Sea Turtle-top,,,,,,,,,image/jpeg,,
