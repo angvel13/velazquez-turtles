@@ -23,6 +23,12 @@ This collection began when I was young with an odd assortment of turtle figurine
 - what materials and techniques were used to create the turtle
 - the size of the figure
 
+
+Hope you enjoy them as much as I do!
+
+Angie Velazquez
+
+
 {% include feature/image.html objectid="turtle032" width="50" %}
 ---
 
